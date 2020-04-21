@@ -48,7 +48,9 @@ The system implemented in this repository follows 4 main steps:
 To compute the Embeddings please execute either the compute_bert_embeddings.py or the
 compute_xlmr_embeddings.py script found in the main folder and set the language and the corpus 
 you need.  
+
 Then execute the autoembed_data.py script and specify the language and the used embedding type.
+
 At last you can compute the final task answers by executing the main_semeval.py script.
 Do not forget to set the correct type of embeddings that you originally used.
 (Everything defaults to BERT embeddings)
