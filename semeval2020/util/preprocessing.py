@@ -33,7 +33,7 @@ def remove_pos_tagging(sentences, target_words):
 
 def remove_numbers(sentences):
     for sentence in sentences:
-        yield [token for token in sentence if token.isdecimal()]
+        yield [token for token in sentence if not token.isdecimal()]
 
 
 def remove_pos_tagging_word(word: str):
