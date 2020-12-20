@@ -1,6 +1,6 @@
 # CMCE at SemEval-2020 Task 1: Clustering on Manifolds of Contextualized Embeddings to Detect Historical Meaning Shifts
 
-This repository allows to reproduce our experiments in the paper [CMCE at SemEval-2020 Task 1](https://www.aclweb.org/anthology/2020.semeval-1.22/) to measure and detect semantic change. 
+This repository allows to reproduce the experiments in our paper [CMCE at SemEval-2020 Task 1](https://www.aclweb.org/anthology/2020.semeval-1.22/) to measure and detect semantic change. 
 
 ## semeval2020-task1
 System Implementation for Task 1 of the SemEval 2020 challenge
