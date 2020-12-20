@@ -6,7 +6,7 @@ This repository contains code to reproduce the experiments in our paper [CMCE at
 Please follow the instructions on the website to get the corpus data.
 
 
-## semeval2020-task1
+## CMCE
 System Implementation for Task 1 of the SemEval 2020 challenge.
 
 <!--
